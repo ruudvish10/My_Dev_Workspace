@@ -1,0 +1,1 @@
+Both these programs are very basic and perform the addition of two numbers. One is just an absolute basic program and the other one implements functions and error handling
