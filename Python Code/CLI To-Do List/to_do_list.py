@@ -117,7 +117,7 @@ def main():
             else:
                 print("Invalid task number! Please enter a valid number.")
         except ValueError:
-            print("An exception occured! Please enter a valid number.")
+            print("An exception occurred! Please enter a valid number.")
     
 if __name__ == "__main__":
     main()
