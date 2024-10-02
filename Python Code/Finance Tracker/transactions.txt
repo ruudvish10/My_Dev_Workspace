@@ -1,0 +1,3 @@
+2024-07-10 | Entertainment | 13.0 | Movie at cineplex
+2024-07-10 | Food | 24.0 | Dinner at cactus
+2024-07-11 | Transportation | 17.0 | Uber + skytrain cost
